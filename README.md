@@ -2,7 +2,7 @@
 
 <p align="center">Expert Notes é um aplicativo de bloco de notas desenvolvido com React e TypeScript, projetado para oferecer uma experiência intuitiva de registro de notas. Os usuários podem facilmente adicionar e gerenciar suas anotações digitando ou gravando áudio.</p>
 
-<img src="#">
+<img src="./public/expert-notes-img.png">
 
 <br>
 
