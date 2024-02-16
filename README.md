@@ -24,6 +24,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Tailwind CSS
 - API Speech Recognition
 - Expo
+- Vite
   
 ## ⚙️ Como Executar o Projeto:
 
